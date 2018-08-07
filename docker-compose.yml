@@ -1,5 +1,5 @@
-roar-web-container:
-    image: roar-web-image
+roar-web-container-blue:
+    image: roar-web-image-blue
     ports:
         - "8089:8080"
     links:
